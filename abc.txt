@@ -1,5 +1,0 @@
-this is my first git text file
-dd
-tt
-tt
-
